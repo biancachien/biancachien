@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bianca Chien.
 - 👀 I’m interested in jogging, baking, painting and learning new things.
 - 🌱 I’m currently learning Front-end skills such as CSS, HTML, JavaScript, React....
-- 💞️ I’m looking to find a position in web front-end development. 
+- 💞️ I’m looking for a position in web front-end development. 
 - 📫 biancachienyc@gmail.com (e-mail me if you are interested in about my github.)
 
 <!---
